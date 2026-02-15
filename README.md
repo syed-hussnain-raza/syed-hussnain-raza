@@ -1,6 +1,6 @@
 # Hi, I'm Syed Muhammad Hussnain Raza
 
-## Aspiring Software Engineering
+## Aspiring Software Engineer
 
 I am a motivated learner currently training in a professional software house environment.  
 I am focused on building a strong foundation in web development and understanding how real-world software is designed, built, and maintained.
