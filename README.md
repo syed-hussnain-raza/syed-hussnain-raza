@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Syed Muhammad Hussnain Raza
 
-<!--
-**syed-hussnain-raza/syed-hussnain-raza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Software Engineering
 
-Here are some ideas to get you started:
+I am a motivated learner currently training in a professional software house environment.  
+I am focused on building a strong foundation in web development and understanding how real-world software is designed, built, and maintained.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I believe in learning by practice, writing clean code, and improving step by step.
+
+---
+
+## What I Am Learning
+
+- HTML & CSS (structure, layout, responsiveness)
+- JavaScript (basics, logic building)
+- Git & GitHub (version control, collaboration)
+- Web fundamentals (how the web works)
+
+---
+
+## Current Goals
+
+- Strengthen core programming concepts
+- Follow industry best practices
+- Build small but meaningful projects
+- Learn how teams work in a software house
+
+---
+
+## Learning Mindset
+
+- Curious and consistent learner
+- Open to feedback and improvement
+- Focused on fundamentals over shortcuts
+
+---
+
+## Status
+
+- Learning stage: **Beginner → Intermediate**
+- Actively practicing and improving every day
+
+---
+
+## Profile
+
+- GitHub: https://github.com/syed-hussnain-raza
